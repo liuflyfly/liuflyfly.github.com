@@ -135,32 +135,32 @@ dl{
 	}
 }
 /*关于我*/
-#aboutMe{
+#about-me{
 	background:#0ca3b9;
 	padding-top:104px;
 }
-#aboutMe .introduce{
+#about-me .introduce{
 	margin-top:40px;
 }
-#aboutMe .info{
+#about-me .info{
 	width:320px;
 	margin:60px auto 0px auto;
 }
-#aboutMe .info dt,#aboutMe .info dd {
+#about-me .info dt,#about-me .info dd {
 	padding:8px 0px;
 	border-bottom:1px dotted #fff;
 	text-align:left;
 }
 @media screen and (max-width:750px){
-	#aboutMe .photo{
+	#about-me .photo{
 		display:none;
 	}
-	#aboutMe .info{
+	#about-me .info{
 		margin-top:10px;
 	}
 }
 /*个人经历*/
-#experienceTar{
+#experience-tar{
 	height:104px;
 	margin-top:-104px;
 }
@@ -193,7 +193,7 @@ dl{
 	margin:4px 0px;
 }
 /*IT技能*/
-#skillsTar{
+#skills-tar{
 	height:104px;
 	margin-top:-104px;
 }
